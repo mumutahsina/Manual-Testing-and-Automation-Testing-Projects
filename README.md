@@ -15,7 +15,6 @@ A collection of documents related to manual software testing, including:
 Automation Testing Project
 A set of Python automation scripts developed and executed using PyCharm, including:
 - Automated test scripts
-- Supporting functions and modules
 - Sample test execution results
 
  Tools & Technologies
